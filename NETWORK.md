@@ -4,3 +4,5 @@
 4. PORT
 5. DNS
 6. URI
+7. HTTP
+8. Client-Server
