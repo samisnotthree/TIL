@@ -6,3 +6,5 @@
 6. URI
 7. HTTP
 8. Client-Server
+9. Stateful, Stateless
+10. Connectionless
