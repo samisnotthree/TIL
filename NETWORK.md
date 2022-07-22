@@ -11,3 +11,5 @@
 9. Stateful, Stateless
 10. Connectionless
 11. HTTP 메시지
+12. GET, POST
+13. PUT, PATCH, DELETE
