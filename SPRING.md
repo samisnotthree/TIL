@@ -1,4 +1,6 @@
 # 스프링 복습
 
 ### Spring Boot
-### IOC/DI/Container
+### IOC/DI
+### 스프링 컨테이너/스프링 빈
+### 빈 생명주기
